@@ -1,0 +1,513 @@
+/* archive banner */
+.ts_eventin_banner {
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+  position: relative;
+  min-height: 325px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.ts_eventin_banner .banner-area {
+  min-height: 325px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-bottom: 30px;
+}
+.ts_eventin_banner::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(4, 26, 87, 0.85);
+}
+.ts_eventin_banner .banner-title {
+  font-size: 45px;
+  line-height: 1;
+  letter-spacing: 0.3px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.ts_eventin_banner .banner-subtitle {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5rem;
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+.ts_eventin_banner .breadcrumb {
+  display: none;
+}
+.ts_eventin_banner .etn-single-event-img {
+  min-height: 360px;
+  border-radius: 12px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+
+/* archive banner */
+.etn_search_archive_sidebar {
+  max-width: 350px;
+  width: 100%;
+}
+.etn_search_archive_sidebar .widget_media_image a {
+  display: block;
+}
+.etn_search_archive_sidebar img {
+  width: 100%;
+}
+
+.banner_search_form_wraper {
+  margin-top: -60px;
+}
+
+.etn_event_form_title {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.09;
+  letter-spacing: 0.02px;
+  color: #041a57;
+  margin-bottom: 30px;
+}
+
+.etn_search_bottom_area_text {
+  font-size: 18px;
+  line-height: 1.1;
+  font-weight: 400;
+  color: #3c4144;
+}
+
+.etn_exhibz_inline_form_top {
+  z-index: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  width: 100%;
+  padding-right: 20px;
+  background: #ffffff;
+  position: relative;
+  border-radius: 12px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 25px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-shadow: 0px 70px 99px rgba(0, 0, 0, 0.08);
+          box-shadow: 0px 70px 99px rgba(0, 0, 0, 0.08);
+}
+.etn_exhibz_inline_form_top:before {
+  left: 20px;
+  right: 20px;
+  z-index: -1;
+  bottom: -10px;
+  height: 100%;
+  opacity: 0.5;
+  content: "";
+  position: absolute;
+  border-radius: 12px;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 70px 99px rgba(0, 0, 0, 0.08);
+          box-shadow: 0px 70px 99px rgba(0, 0, 0, 0.08);
+}
+.etn_exhibz_inline_form_top .etn_exhibz_select {
+  border: none !important;
+  padding: 0 0 0 35px !important;
+  color: #041a57;
+  font-size: 15px;
+}
+.etn_exhibz_inline_form_top .input-group {
+  padding: 20px 30px;
+  border-right: 1px solid #dfe1e5;
+  width: 24%;
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  -ms-flex-negative: 1;
+      flex-shrink: 1;
+}
+.etn_exhibz_inline_form_top .input-group:first-child {
+  width: 31%;
+}
+.etn_exhibz_inline_form_top .input-group:nth-child(3) {
+  border-right: none;
+}
+.etn_exhibz_inline_form_top .input-group input {
+  width: 100%;
+  border: none;
+  height: 70px;
+  padding: 0px;
+  display: block;
+  font-size: 16px;
+  font-weight: 400;
+  border-radius: 0px;
+  padding-left: 35px;
+  background-color: transparent;
+}
+.etn_exhibz_inline_form_top .input-group-prepend {
+  top: 50%;
+  left: 30px;
+  z-index: 1;
+  margin: 0px;
+  padding: 0px;
+  line-height: 1;
+  position: absolute;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+.etn_exhibz_inline_form_top .input-group-text {
+  padding: 0px;
+  border: none;
+  color: #3c4144;
+  line-height: 1;
+  font-size: 18px;
+  border-radius: 0px;
+  background-color: transparent;
+}
+.etn_exhibz_inline_form_top .select2-container--default .select2-selection--single {
+  border: none;
+  height: auto;
+  border-radius: 0px;
+  padding-left: 35px;
+  background-color: transparent;
+}
+.etn_exhibz_inline_form_top .select2-container--default .select2-selection--single .select2-selection__rendered {
+  padding: 0px;
+  height: 70px;
+  line-height: 70px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #041a57;
+}
+.etn_exhibz_inline_form_top .select2-container--default .select2-selection--single .select2-selection__arrow {
+  top: 50%;
+  right: 0;
+  width: auto;
+  height: auto;
+  position: absolute;
+  -webkit-transform: translateY(50%);
+      -ms-transform: translateY(50%);
+          transform: translateY(50%);
+}
+.etn_exhibz_inline_form_top .select2-container--default .select2-selection--single .select2-selection__arrow b {
+  top: 50%;
+  left: 50%;
+  width: 10px;
+  height: 10px;
+  border: none;
+  margin: 0px;
+  display: inline-block;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  background-position: center center;
+  background-image: url(../images/down-arrow.png);
+}
+.etn_exhibz_inline_form_top .btn.btn-primary {
+  line-height: 1;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 27px 46px;
+  background: #e54220;
+  border-radius: 12px;
+  margin-left: 20px;
+  height: auto;
+}
+.etn_exhibz_inline_form_top .btn.btn-primary:hover {
+  color: #ffffff;
+}
+
+.etn_exhibz_inline_form_bottom {
+  width: 100%;
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  -ms-flex-negative: 1;
+      flex-shrink: 1;
+  margin-bottom: 20px;
+  padding-top: 45px;
+}
+.etn_exhibz_inline_form_bottom .etn_exhibz_select {
+  border-radius: 8px;
+  border-style: solid !important;
+  border-color: #f2f2f2 !important;
+  border-width: 1px !important;
+  padding: 0 25px !important;
+  height: 55px !important;
+  line-height: 55px;
+  width: 100% !important;
+  color: #041a57;
+  font-size: 15px;
+}
+.etn_exhibz_inline_form_bottom .etn_exhibz_inline_input_label {
+  font-size: 14px;
+  line-height: 1.07;
+  color: rgba(4, 26, 87, 0.5);
+  margin-bottom: 10px;
+  display: block;
+}
+.etn_exhibz_inline_form_bottom .select2-selection--single {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #f2f2f2;
+  border-width: 1px !important;
+  height: 55px;
+  line-height: 55px;
+  width: 100%;
+}
+.etn_exhibz_inline_form_bottom .select2-container--default {
+  width: 100% !important;
+}
+.etn_exhibz_inline_form_bottom .select2-container--default .select2-selection--single .select2-selection__rendered {
+  font-size: 15px;
+  height: 55px;
+  line-height: 55px;
+  font-weight: 500;
+  color: #041a57;
+  padding: 0 25px;
+}
+.etn_exhibz_inline_form_bottom .select2-container--default .select2-selection--single .select2-selection__arrow {
+  top: 50%;
+  right: 20px;
+  text-align: center;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+.etn_exhibz_inline_form_bottom .select2-container--default .select2-selection--single .select2-selection__arrow b {
+  width: 10px;
+  height: 10px;
+  border: none;
+  margin: 0px;
+  display: inline-block;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  background-position: center center;
+  background-image: url(../images/down-arrow.png);
+}
+.etn_exhibz_inline_form_bottom .preview_type_lists {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #f2f2f2;
+  border-width: 1px;
+  display: inline-block;
+}
+.etn_exhibz_inline_form_bottom .preview_type_lists li {
+  display: inline-block;
+  height: 53px;
+  line-height: 53px;
+  padding: 0 20px;
+  border-style: solid;
+  border-color: #f2f2f2;
+  border-width: 0px 1px 0px 0;
+}
+.etn_exhibz_inline_form_bottom .preview_type_lists li:last-child {
+  border-width: 0;
+}
+
+/* search box styling for tab & mobile device - start */
+@media screen and (max-width: 1200px) {
+  .etn_exhibz_inline_form_top .input-group {
+    width: 23%;
+  }
+  .etn_exhibz_inline_form_top .input-group:first-child {
+    width: 28%;
+  }
+
+  .etn_exhibz_inline_form .input-group {
+    width: 25%;
+  }
+
+  .etn_exhibz_inline_form .btn.btn-primary {
+    padding: 27px 45px;
+  }
+}
+@media screen and (max-width: 992px) {
+  .etn_exhibz_inline_form {
+    padding: 15px;
+  }
+  .etn_exhibz_inline_form .input-group {
+    width: 50%;
+    border: none;
+    padding: 15px;
+    border-bottom: 1px solid #dfe1e5;
+  }
+
+  .etn_exhibz_inline_form .input-group:nth-child(3) {
+    border-bottom: none;
+  }
+
+  .etn_exhibz_inline_form .btn.btn-primary {
+    margin: 0px;
+    width: 50%;
+    margin-top: 15px;
+    font-size: 15px;
+    padding: 18px 30px;
+  }
+
+  .etn_exhibz_inline_form .input-group-prepend {
+    left: 15px;
+  }
+
+  .etn_exhibz_inline_form .input-group input {
+    height: 50px;
+    font-size: 15px;
+  }
+
+  .etn_exhibz_inline_form .select2-container--default .select2-selection--single .select2-selection__rendered {
+    height: 50px;
+    line-height: 50px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .etn_exhibz_inline_form .input-group {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #dfe1e5;
+  }
+
+  .etn_exhibz_inline_form .btn.btn-primary {
+    width: 100%;
+  }
+
+  .etn_exhibz_inline_form_bottom .select2-container--default {
+    margin-bottom: 30px;
+  }
+}
+/* search box styling for tab & mobile device - start */
+.preview_type_lists > li {
+  cursor: pointer;
+}
+.preview_type_lists > li svg path {
+  fill: #99a0a7;
+}
+.preview_type_lists > li.active svg path {
+  fill: #e54220;
+}
+
+.etn_load_more_button {
+  text-align: center;
+  margin: 30px 0;
+}
+.etn_load_more_button span {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 8px;
+  margin-bottom: 30px;
+  padding: 16px 32px;
+  background-color: #e54220;
+  border-color: #e54220;
+  border-style: solid;
+  border-width: 2px;
+  cursor: pointer;
+  display: inline-block;
+  -webkit-transition: background-color 0.4s ease;
+  -o-transition: background-color 0.4s ease;
+  transition: background-color 0.4s ease;
+}
+.etn_load_more_button span:hover {
+  background-color: transparent;
+  color: #e54220;
+  border-color: #e54220;
+}
+
+.etn_load_more_button.loading span {
+  position: relative;
+  font-size: 0;
+}
+
+.etn_load_more_button.loading span:before {
+  content: attr(data-loading-text);
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.select2-container--open .select2-dropdown {
+  left: 0;
+  top: 35px;
+  border: transparent;
+  -webkit-box-shadow: 0 10px 30px 0 rgba(45, 45, 45, 0.2);
+          box-shadow: 0 10px 30px 0 rgba(45, 45, 45, 0.2);
+  border-radius: 0px 0px 10px 10px;
+  padding: 10px;
+}
+
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+  background-color: #f5f9fb;
+  color: #212121;
+}
+
+.select2-results__options {
+  margin: 0 4px;
+}
+
+.search-results .type-etn {
+  margin-bottom: 30px;
+}
+
+.home .etn_exhibz_search_wraper {
+  margin-top: -90px;
+}
+
+.etn_search_archive_sidebar .widget_media_image a {
+  display: block;
+}
+
+.etn_search_archive_sidebar .widget_media_image img {
+  width: 100%;
+}
+
+body.search-results .main-container {
+  padding-top: 40px;
+}
+
+.home .etn_exhibz_search_wraper {
+  margin-top: -90px;
+}
+
+.ts-event-archive-wrap .etn-event-item {
+  padding: 0;
+}
+.ts-event-archive-wrap .etn-event-item .etn-event-thumb {
+  visibility: visible;
+  margin-bottom: 0;
+}
+.ts-event-archive-wrap .etn-event-item .etn-event-thumb > a {
+  overflow: hidden;
+}
+.ts-event-archive-wrap .etn-event-item .ts_etn_thumb_meta_wraper {
+  z-index: 1;
+  position: relative;
+  left: 20px;
+  bottom: 20px;
+}
+.ts-event-archive-wrap .etn-event-item .ts_etn_thumb_meta_wraper .ts-event-term {
+  font-size: 13px;
+  font-weight: 500;
+  text-transform: uppercase;
+  border-radius: 8px;
+  color: #fff;
+  background-color: #e54220;
+  z-index: 1;
+  padding: 12px 20px;
+  line-height: 1;
+}
+.ts-event-archive-wrap .etn-event-item .etn-event-content {
+  padding: 20px 30px 10px;
+}

@@ -1,0 +1,3514 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP Event Solution\n"
+"POT-Creation-Date: 2021-10-04 14:04+0600\n"
+"PO-Revision-Date: 2021-10-04 14:04+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: eventin.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: base/action.php:26 core/attendee/action.php:37 core/event/action.php:37
+#: core/schedule/action.php:37 core/speaker/action.php:34
+msgid "Something went wrong."
+msgstr ""
+
+#: base/action.php:59
+msgid "Eventin Settings Updated"
+msgstr ""
+
+#: base/metabox.php:35 core/metaboxs/event-manager-metabox.php:97
+msgid "meta data field not found"
+msgstr ""
+
+#: base/metabox.php:206 base/metabox.php:223 base/metabox.php:265
+#: base/metabox.php:373 core/metaboxs/event-manager-metabox.php:612
+#: core/metaboxs/event-manager-metabox.php:630
+#: core/metaboxs/event-manager-metabox.php:670
+#: core/metaboxs/event-manager-metabox.php:783
+msgid "Add"
+msgstr ""
+
+#: base/metabox.php:341 core/metaboxs/event-manager-metabox.php:751
+msgid "title"
+msgstr ""
+
+#: base/metabox.php:342 core/metaboxs/event-manager-metabox.php:752
+msgid "url"
+msgstr ""
+
+#: base/metabox.php:353 core/metaboxs/event-manager-metabox.php:763
+msgid "Add Social"
+msgstr ""
+
+#: base/metabox.php:364 core/metaboxs/event-manager-metabox.php:774
+msgid "title here"
+msgstr ""
+
+#: base/metabox.php:365 core/metaboxs/event-manager-metabox.php:775
+msgid "url here"
+msgstr ""
+
+#: base/metabox.php:691 core/metaboxs/event-manager-metabox.php:1124
+#: core/metaboxs/event-manager-repeater-metabox.php:175
+msgid "Remove image"
+msgstr ""
+
+#: base/table.php:95
+msgid "Show more details"
+msgstr ""
+
+#: base/table.php:123
+msgid "Edit Recurrence"
+msgstr ""
+
+#: base/table.php:124 core/recurring-event/hooks.php:162
+msgid "Edit All Recurrences"
+msgstr ""
+
+#: base/table.php:125 core/recurring-event/hooks.php:163
+msgid "Detach"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: bootstrap.php:42
+msgid "WP Event Solution"
+msgstr ""
+
+#: bootstrap.php:205
+msgid "Our experienced support team is ready to resolve your issues any time."
+msgstr ""
+
+#: bootstrap.php:208
+msgid "Join the Community"
+msgstr ""
+
+#: bootstrap.php:210
+#, php-format
+msgid ""
+"Join our Facebook group to get 20% discount coupon on premium products. "
+"Follow us to get more exciting offers."
+msgstr ""
+
+#: bootstrap.php:214
+msgid "Video Tutorials"
+msgstr ""
+
+#: bootstrap.php:216
+msgid ""
+"Learn the step by step process for developing your site easily from video "
+"tutorials."
+msgstr ""
+
+#: bootstrap.php:220
+msgid "Feature Request"
+msgstr ""
+
+#: bootstrap.php:222
+msgid ""
+"Have any special feature in mind? Let us know through the feature request."
+msgstr ""
+
+#: bootstrap.php:226
+msgid "Documentation"
+msgstr ""
+
+#: bootstrap.php:228
+msgid ""
+"Detailed documentation to help you understand the functionality of each "
+"feature."
+msgstr ""
+
+#: bootstrap.php:251
+msgid "Activate Eventin Pro"
+msgstr ""
+
+#: bootstrap.php:254
+msgid "Buy Eventin Pro"
+msgstr ""
+
+#: bootstrap.php:261
+msgid "Get Eventin Pro for more exciting features."
+msgstr ""
+
+#: bootstrap.php:297
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: bootstrap.php:300
+msgid "Install WooCommerce"
+msgstr ""
+
+#: bootstrap.php:307
+msgid ""
+"Eventin requires WooCommerce to get all features, which is currently NOT "
+"RUNNING."
+msgstr ""
+
+#: core/attendee/attendee-list.php:163
+msgid "Attendee ID"
+msgstr ""
+
+#: core/attendee/attendee-list.php:164
+#: core/attendee/views/registration/attendee-details-form.php:34
+#: core/attendee/views/ticket/info-update.php:40
+#: core/metaboxs/speaker-meta.php:30 core/recurring-event/hooks.php:86
+#: core/settings/views/parts/shortcode-settings-view.php:167
+msgid "Name"
+msgstr ""
+
+#: core/attendee/attendee-list.php:166
+#: core/attendee/views/registration/attendee-details-form.php:45
+#: core/attendee/views/ticket/info-update.php:51
+#: core/metaboxs/attendee-meta.php:29 core/metaboxs/speaker-meta.php:50
+msgid "Email"
+msgstr ""
+
+#: core/attendee/attendee-list.php:169
+#: core/attendee/views/registration/attendee-details-form.php:57
+#: core/attendee/views/ticket/info-update.php:65
+#: core/metaboxs/attendee-meta.php:38
+msgid "Phone"
+msgstr ""
+
+#: core/attendee/attendee-list.php:171 core/event/cpt.php:44
+#: core/event/cpt.php:45 core/event/cpt.php:79 core/event/cpt.php:123
+#: core/settings/views/etn-settings.php:54
+#: core/settings/views/parts/shortcode-settings-view.php:104
+#: core/shortcodes/hooks.php:225
+#: widgets/advanced-search/advanced-search.php:426
+msgid "Event"
+msgid_plural "Events"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/attendee/attendee-list.php:172
+msgid "Payment Status"
+msgstr ""
+
+#: core/attendee/attendee-list.php:173
+msgid "Ticket Status"
+msgstr ""
+
+#: core/attendee/attendee-list.php:174
+msgid "Action"
+msgstr ""
+
+#: core/attendee/attendee-list.php:224 core/metaboxs/attendee-meta.php:47
+msgid "Ticket"
+msgstr ""
+
+#: core/attendee/cpt.php:46
+msgctxt "Post Type General Name"
+msgid "Attendee"
+msgstr ""
+
+#: core/attendee/cpt.php:48 core/attendee/cpt.php:49 core/attendee/cpt.php:83
+#: core/attendee/cpt.php:84 core/event/pages/event-woocommerce.php:41
+#: core/settings/views/etn-settings.php:85
+msgid "Attendee"
+msgstr ""
+
+#: core/attendee/cpt.php:51
+msgid "Attendee Attributes"
+msgstr ""
+
+#: core/attendee/cpt.php:52 core/event/cpt.php:48 core/schedule/cpt.php:41
+#: core/speaker/cpt.php:48 core/zoom-meeting/cpt.php:43
+msgid "Parent Item:"
+msgstr ""
+
+#: core/attendee/cpt.php:54
+msgid "Add New Attendee"
+msgstr ""
+
+#: core/attendee/cpt.php:55 core/event/cpt.php:51 core/schedule/cpt.php:44
+#: core/speaker/cpt.php:51 core/zoom-meeting/cpt.php:46
+msgid "Add New"
+msgstr ""
+
+#: core/attendee/cpt.php:56
+msgid "New Attendee"
+msgstr ""
+
+#: core/attendee/cpt.php:57
+msgid "Edit Attendee"
+msgstr ""
+
+#: core/attendee/cpt.php:58
+msgid "Update Attendee"
+msgstr ""
+
+#: core/attendee/cpt.php:59 core/attendee/cpt.php:60
+msgid "View Attendee"
+msgstr ""
+
+#: core/attendee/cpt.php:61
+msgid "Search Attendee"
+msgstr ""
+
+#: core/attendee/cpt.php:62 core/event/cpt.php:58 core/schedule/cpt.php:51
+#: core/speaker/cpt.php:58 core/zoom-meeting/cpt.php:53
+msgid "Not found"
+msgstr ""
+
+#: core/attendee/cpt.php:63 core/event/cpt.php:59 core/schedule/cpt.php:52
+#: core/speaker/cpt.php:59 core/zoom-meeting/cpt.php:54
+msgid "Not found in Trash"
+msgstr ""
+
+#: core/attendee/cpt.php:64 core/event/cpt.php:60 core/schedule/cpt.php:53
+#: core/speaker/cpt.php:60 core/zoom-meeting/cpt.php:55
+msgid "Featured Image"
+msgstr ""
+
+#: core/attendee/cpt.php:65 core/event/cpt.php:61 core/schedule/cpt.php:54
+#: core/speaker/cpt.php:61 core/zoom-meeting/cpt.php:56
+msgid "Set featured image"
+msgstr ""
+
+#: core/attendee/cpt.php:66 core/event/cpt.php:62 core/schedule/cpt.php:55
+#: core/speaker/cpt.php:62 core/zoom-meeting/cpt.php:57
+msgid "Remove featured image"
+msgstr ""
+
+#: core/attendee/cpt.php:67 core/event/cpt.php:63 core/schedule/cpt.php:56
+#: core/speaker/cpt.php:63 core/zoom-meeting/cpt.php:58
+msgid "Use as featured image"
+msgstr ""
+
+#: core/attendee/cpt.php:68
+msgid "Insert into Attendee"
+msgstr ""
+
+#: core/attendee/cpt.php:69
+msgid "Uploaded to this Attendee"
+msgstr ""
+
+#: core/attendee/cpt.php:70
+msgid "Attendee list"
+msgstr ""
+
+#: core/attendee/cpt.php:71
+msgid "Attendee list navigation"
+msgstr ""
+
+#: core/attendee/cpt.php:72 core/event/cpt.php:68 core/schedule/cpt.php:61
+#: core/speaker/cpt.php:68 core/zoom-meeting/cpt.php:63
+msgid "Filter froms list"
+msgstr ""
+
+#: core/attendee/cron.php:61
+msgid "Attendee remove schedule"
+msgstr ""
+
+#: core/attendee/views/registration/attendee-details-form.php:15
+msgid "Attendee Details for "
+msgstr ""
+
+#: core/attendee/views/registration/attendee-details-form.php:30
+msgid "Attendee - "
+msgstr ""
+
+#: core/attendee/views/registration/attendee-details-form.php:36
+#: core/attendee/views/ticket/info-update.php:43
+msgid "Enter attendee full name"
+msgstr ""
+
+#: core/attendee/views/registration/attendee-details-form.php:47
+#: core/attendee/views/ticket/info-update.php:54
+msgid "Enter email address"
+msgstr ""
+
+#: core/attendee/views/registration/attendee-details-form.php:59
+#: core/attendee/views/ticket/info-update.php:68
+msgid "Enter phone number"
+msgstr ""
+
+#: core/attendee/views/registration/attendee-details-form.php:118
+#: core/attendee/views/ticket/info-update.php:121
+msgid "Please Select input type & label name from admin"
+msgstr ""
+
+#: core/attendee/views/registration/attendee-details-form.php:129
+msgid "Confirm"
+msgstr ""
+
+#: core/attendee/views/registration/attendee-details-form.php:130
+msgid "Go Back"
+msgstr ""
+
+#: core/attendee/views/ticket/info-update.php:34
+msgid "Update Attendee Details"
+msgstr ""
+
+#: core/attendee/views/ticket/info-update.php:133
+msgid "Update"
+msgstr ""
+
+#: core/attendee/views/ticket/pdf.php:13
+msgid "Event details:"
+msgstr ""
+
+#: core/attendee/views/ticket/pdf.php:16
+msgid "Event name:"
+msgstr ""
+
+#: core/attendee/views/ticket/pdf.php:20
+msgid "Date :"
+msgstr ""
+
+#: core/attendee/views/ticket/pdf.php:22
+msgid "Time :"
+msgstr ""
+
+#: core/attendee/views/ticket/pdf.php:25
+msgid "Location:"
+msgstr ""
+
+#: core/attendee/views/ticket/pdf.php:27
+msgid "Ticket price:"
+msgstr ""
+
+#: core/attendee/views/ticket/pdf.php:39
+msgid "Attendee details:"
+msgstr ""
+
+#: core/attendee/views/ticket/pdf.php:43
+msgid "Name:"
+msgstr ""
+
+#: core/attendee/views/ticket/pdf.php:47
+msgid "Email:"
+msgstr ""
+
+#: core/attendee/views/ticket/pdf.php:51
+msgid "Phone:"
+msgstr ""
+
+#: core/attendee/views/ticket/update-attendee.php:61
+msgid "Attendee details updated"
+msgstr ""
+
+#: core/attendee/views/ticket/update-attendee.php:64
+#: core/attendee/views/ticket/update-attendee.php:82 utils/helper.php:1257
+msgid "Return to homepage"
+msgstr ""
+
+#: core/attendee/views/ticket/update-attendee.php:79
+msgid "Invalid data. Make sure no required data is missing."
+msgstr ""
+
+#: core/event/category.php:32 core/event/category.php:33
+#: core/event/category.php:42 core/zoom-meeting/category.php:34
+#: core/zoom-meeting/category.php:35 core/zoom-meeting/category.php:44
+msgid "Category"
+msgstr ""
+
+#: core/event/category.php:34 core/speaker/category.php:34
+#: core/zoom-meeting/category.php:36
+msgid "Search Category"
+msgstr ""
+
+#: core/event/category.php:35 core/speaker/category.php:35
+#: core/zoom-meeting/category.php:37
+msgid "All Category"
+msgstr ""
+
+#: core/event/category.php:36 core/speaker/category.php:36
+#: core/zoom-meeting/category.php:38
+msgid "Parent Category"
+msgstr ""
+
+#: core/event/category.php:37 core/speaker/category.php:37
+#: core/zoom-meeting/category.php:39
+msgid "Parent Category:"
+msgstr ""
+
+#: core/event/category.php:38 core/speaker/category.php:38
+#: core/zoom-meeting/category.php:40
+msgid "Edit Category"
+msgstr ""
+
+#: core/event/category.php:39 core/speaker/category.php:39
+#: core/zoom-meeting/category.php:41
+msgid "Update Category"
+msgstr ""
+
+#: core/event/category.php:40 core/zoom-meeting/category.php:42
+msgid "Add New Category"
+msgstr ""
+
+#: core/event/category.php:41 core/speaker/category.php:41
+#: core/zoom-meeting/category.php:43
+msgid "New Category Name"
+msgstr ""
+
+#: core/event/category.php:76 core/event/category.php:77
+msgid "Event categories"
+msgstr ""
+
+#: core/event/cpt.php:42 widgets/events/events.php:26
+msgid "Eventin Events"
+msgstr ""
+
+#: core/event/cpt.php:47
+msgid "Event Attributes"
+msgstr ""
+
+#: core/event/cpt.php:52
+msgid "New Event"
+msgstr ""
+
+#: core/event/cpt.php:53
+msgid "Edit Event"
+msgstr ""
+
+#: core/event/cpt.php:54
+msgid "Update Event"
+msgstr ""
+
+#: core/event/cpt.php:55
+msgid "View Event"
+msgstr ""
+
+#: core/event/cpt.php:56
+msgid "View Events"
+msgstr ""
+
+#: core/event/cpt.php:57
+msgid "Search Events"
+msgstr ""
+
+#: core/event/cpt.php:64
+msgid "Insert into Event"
+msgstr ""
+
+#: core/event/cpt.php:65
+msgid "Uploaded to this Event"
+msgstr ""
+
+#: core/event/cpt.php:66
+msgid "Events list"
+msgstr ""
+
+#: core/event/cpt.php:67
+msgid "Events list navigation"
+msgstr ""
+
+#: core/event/cpt.php:78 core/event/cpt.php:125
+msgid "Events"
+msgstr ""
+
+#: core/event/cpt.php:124
+msgid "Event Archive"
+msgstr ""
+
+#: core/event/hooks.php:106
+msgid "Event By Start Date Past"
+msgstr ""
+
+#: core/event/hooks.php:107
+msgid "Event By Start Date Upcoming"
+msgstr ""
+
+#: core/event/hooks.php:171 core/event/hooks.php:194 core/schedule/hooks.php:71
+#: core/schedule/hooks.php:84 core/speaker/hooks.php:146
+#: core/zoom-meeting/hooks.php:57 widgets/events-tab/events-tab.php:128
+#: widgets/events/events.php:142 widgets/speakers/speakers.php:123
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:106
+msgid "Id"
+msgstr ""
+
+#: core/event/hooks.php:195
+msgid "Recurring"
+msgstr ""
+
+#: core/event/hooks.php:197 core/metaboxs/event-meta.php:116
+msgid "Event start date"
+msgstr ""
+
+#: core/event/hooks.php:215
+msgid "Yes - Recurrence"
+msgstr ""
+
+#: core/event/hooks.php:220 core/guten-block/src/blocks/zoom-meeting/edit.js:41
+#: utils/helper.php:2149
+msgid "No"
+msgstr ""
+
+#: core/event/hooks.php:224
+msgid "Yes - Parent"
+msgstr ""
+
+#: core/event/tags.php:31 core/event/tags.php:32 core/event/tags.php:41
+#: core/zoom-meeting/tags.php:35 core/zoom-meeting/tags.php:36
+#: core/zoom-meeting/tags.php:45 templates/event/tag-list.php:15
+msgid "Tags"
+msgstr ""
+
+#: core/event/tags.php:33 core/zoom-meeting/tags.php:37
+msgid "Search Tags"
+msgstr ""
+
+#: core/event/tags.php:34 core/zoom-meeting/tags.php:38
+msgid "All Tags"
+msgstr ""
+
+#: core/event/tags.php:35 core/zoom-meeting/tags.php:39
+msgid "Parent Tags"
+msgstr ""
+
+#: core/event/tags.php:36 core/zoom-meeting/tags.php:40
+msgid "Parent Tags:"
+msgstr ""
+
+#: core/event/tags.php:37 core/zoom-meeting/tags.php:41
+msgid "Edit Tags"
+msgstr ""
+
+#: core/event/tags.php:38 core/zoom-meeting/tags.php:42
+msgid "Update Tags"
+msgstr ""
+
+#: core/event/tags.php:39 core/zoom-meeting/tags.php:43
+msgid "Add New Tags"
+msgstr ""
+
+#: core/event/tags.php:40 core/zoom-meeting/tags.php:44
+msgid "New Tags Name"
+msgstr ""
+
+#: core/event/tags.php:73 core/event/tags.php:74
+msgid "Event Tags"
+msgstr ""
+
+#: core/event/template-functions.php:294
+msgid "Daily Event Schedule :"
+msgstr ""
+
+#: core/event/template-functions.php:296
+msgid "Weekly Event Schedule :"
+msgstr ""
+
+#: core/event/template-functions.php:298
+msgid "Monthly Event Schedule :"
+msgstr ""
+
+#: core/event/template-functions.php:300
+msgid "Yearly Event Schedule :"
+msgstr ""
+
+#: core/event/template-functions.php:320
+msgid "Show More Event"
+msgstr ""
+
+#: core/guten-block/inc/init.php:18
+msgid "Eventin "
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:15
+#: core/guten-block/src/blocks/schedule-tab/edit.js:14
+#: core/guten-block/src/blocks/speaker-list/edit.js:15
+msgid "Select one or more categories"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:20
+#: core/guten-block/src/blocks/speaker-list/edit.js:20
+msgid "No Categories Found"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:35
+#: core/guten-block/src/blocks/schedule-tab/edit.js:34
+#: core/guten-block/src/blocks/speaker-list/edit.js:51
+#: core/guten-block/src/blocks/zoom-meeting/edit.js:34
+#: core/settings/settings.php:44 core/settings/settings.php:45
+#: widgets/advanced-search/advanced-search.php:60
+msgid "Settings"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:38
+#: widgets/events-tab/events-tab.php:62 widgets/events/events.php:62
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:62
+msgid "Event Style"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:41
+#: core/guten-block/src/blocks/schedule-tab/edit.js:40
+#: core/guten-block/src/blocks/speaker-list/edit.js:57
+#: widgets/schedule-list/schedule-list.php:66 widgets/zoom/zoom.php:67
+msgid "Style 1"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:53
+#: core/guten-block/src/blocks/speaker-list/edit.js:72
+msgid "Select Categories"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:65
+#: core/guten-block/src/blocks/speaker-list/edit.js:99
+msgid "Count"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:78
+#: widgets/events-tab/events-tab.php:100 widgets/events/events.php:100
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:170
+msgid "Description Limit"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:91
+#: core/guten-block/src/blocks/speaker-list/edit.js:117
+#: core/settings/views/parts/shortcode-settings-view.php:146
+msgid "Column"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:94
+#: core/guten-block/src/blocks/speaker-list/edit.js:120
+msgid "Column 2"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:95
+#: core/guten-block/src/blocks/speaker-list/edit.js:121
+msgid "Column 3"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:96
+#: core/guten-block/src/blocks/speaker-list/edit.js:122
+msgid "Column 4"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:106
+msgid "Filter With Status"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:109 utils/helper.php:2170
+#: widgets/events-tab/events-tab.php:144 widgets/events/events.php:128
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:122
+msgid "All"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:110 utils/helper.php:2171
+msgid "Upcoming"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:111 utils/helper.php:2172
+msgid "Expire"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:122
+#: core/guten-block/src/blocks/schedule-tab/edit.js:64
+#: core/guten-block/src/blocks/speaker-list/edit.js:136
+msgid "Order"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:125
+#: core/guten-block/src/blocks/schedule-tab/edit.js:67
+#: core/guten-block/src/blocks/speaker-list/edit.js:139 utils/helper.php:2159
+msgid "ASC"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/edit.js:126
+#: core/guten-block/src/blocks/schedule-tab/edit.js:68
+#: core/guten-block/src/blocks/speaker-list/edit.js:140 utils/helper.php:2160
+msgid "DESC"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/index.js:10
+#: core/guten-block/src/blocks/event-list/index.js:14
+#: core/settings/views/parts/shortcode-settings-view.php:18
+msgid "Event List"
+msgstr ""
+
+#: core/guten-block/src/blocks/event-list/index.js:15
+#: core/guten-block/src/blocks/schedule-tab/index.js:15
+#: core/guten-block/src/blocks/speaker-list/index.js:15
+#: core/guten-block/src/blocks/zoom-meeting/index.js:15
+msgid "Eventin"
+msgstr ""
+
+#: core/guten-block/src/blocks/schedule-tab/edit.js:19
+msgid "No schedule Found"
+msgstr ""
+
+#: core/guten-block/src/blocks/schedule-tab/edit.js:37
+#: widgets/schedule-list/schedule-list.php:62 widgets/schedule/schedule.php:62
+msgid "Schedule Style"
+msgstr ""
+
+#: core/guten-block/src/blocks/schedule-tab/edit.js:52
+msgid "Select Schedules"
+msgstr ""
+
+#: core/guten-block/src/blocks/schedule-tab/index.js:10
+#: core/guten-block/src/blocks/schedule-tab/index.js:14
+#: core/settings/views/parts/shortcode-settings-view.php:212
+msgid "Schedule Tab"
+msgstr ""
+
+#: core/guten-block/src/blocks/speaker-list/edit.js:30
+#: core/guten-block/src/blocks/zoom-meeting/edit.js:15
+msgid "Select"
+msgstr ""
+
+#: core/guten-block/src/blocks/speaker-list/edit.js:36
+#: core/guten-block/src/blocks/zoom-meeting/edit.js:20
+msgid "No post Found"
+msgstr ""
+
+#: core/guten-block/src/blocks/speaker-list/edit.js:54
+msgid "Style"
+msgstr ""
+
+#: core/guten-block/src/blocks/speaker-list/edit.js:58 widgets/zoom/zoom.php:68
+msgid "Style 2"
+msgstr ""
+
+#: core/guten-block/src/blocks/speaker-list/edit.js:83
+msgid "Select speaker"
+msgstr ""
+
+#: core/guten-block/src/blocks/speaker-list/index.js:10
+#: core/guten-block/src/blocks/speaker-list/index.js:14
+msgid "Speaker List"
+msgstr ""
+
+#: core/guten-block/src/blocks/zoom-meeting/edit.js:37
+msgid "Show Zoom Link Only?"
+msgstr ""
+
+#: core/guten-block/src/blocks/zoom-meeting/edit.js:40
+#: core/settings/views/parts/general-settings-view.php:155
+#: utils/helper.php:2148
+msgid "Yes"
+msgstr ""
+
+#: core/guten-block/src/blocks/zoom-meeting/edit.js:51
+msgid "Select Zoom Title"
+msgstr ""
+
+#: core/guten-block/src/blocks/zoom-meeting/index.js:10
+#: core/guten-block/src/blocks/zoom-meeting/index.js:14
+#: core/settings/views/parts/shortcode-settings-view.php:342
+msgid "Zoom Meeting"
+msgstr ""
+
+#: core/metaboxs/attendee-meta.php:16
+msgid "Attendee Details"
+msgstr ""
+
+#: core/metaboxs/attendee-meta.php:32
+msgid "Enter Attendee Email Address"
+msgstr ""
+
+#: core/metaboxs/attendee-meta.php:41
+msgid "Enter Attendee Phone Number"
+msgstr ""
+
+#: core/metaboxs/attendee-meta.php:48
+msgid "Attendee ticket status"
+msgstr ""
+
+#: core/metaboxs/attendee-meta.php:51
+msgid "Unused"
+msgstr ""
+
+#: core/metaboxs/attendee-meta.php:52
+msgid "Used"
+msgstr ""
+
+#: core/metaboxs/attendee-meta.php:59
+msgid "Payment"
+msgstr ""
+
+#: core/metaboxs/attendee-meta.php:60
+msgid "Attendee payment status"
+msgstr ""
+
+#: core/metaboxs/attendee-meta.php:63
+msgid "Success"
+msgstr ""
+
+#: core/metaboxs/attendee-meta.php:64
+msgid "Failed"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:363
+msgid "Event will repeat "
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:367
+msgid "-- Select --"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:368
+msgid "Daily"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:369
+msgid "Weekly"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:370
+msgid "Monthly"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:371
+msgid "Yearly"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:378
+msgid "Recurrence Interval"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:382
+msgid " day(s)"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:388
+msgid "On"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:393
+#: core/metaboxs/event-manager-metabox.php:421
+msgid "S"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:397
+msgid "M"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:401
+#: core/metaboxs/event-manager-metabox.php:411
+msgid "T"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:406
+msgid "W"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:416
+msgid "F"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:429
+#: core/metaboxs/event-manager-metabox.php:462
+msgid "On the date of"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:439
+msgid "In the month of"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:443
+msgid "Select month "
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:444
+msgid "January"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:445
+msgid "February"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:446
+msgid "march"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:447
+msgid "April"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:448
+msgid "May"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:449
+msgid "June"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:450
+msgid "July"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:451
+msgid "August"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:452
+msgid "September"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:453
+msgid "October"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:454
+msgid "November"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:455
+msgid "December"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:471
+msgid "Each recurrence spans for"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:483
+msgid "day(s)"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:489
+msgid "Ends"
+msgstr ""
+
+#: core/metaboxs/event-manager-metabox.php:493
+msgid "On Event End Date"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:21
+msgid "Eventin Event Settings"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:26
+msgid "Order Report"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:56
+msgid "Event location"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:57
+msgid "Place event location"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:66
+msgid "Event schedule"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:67
+msgid "Select all schedules created for this event"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:75 templates/event/event-organizers-free.php:13
+msgid "Organizers"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:76
+msgid "Select speaker category which will be used as organizer"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:85
+msgid "Event start time"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:86
+msgid "Select start time"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:95
+msgid "Event end time"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:98
+msgid "Select end time"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:105
+msgid "Timezone"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:108
+msgid "Event will be held on this time-zone"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:117
+msgid "Select event start date"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:126
+msgid "Event event end date"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:130
+msgid "Select end date"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:137
+msgid "Registration deadline"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:140
+msgid "Select event registration deadline"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:149
+msgid "Recurring event"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:150
+msgid "Set this event as a recurring event"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:159
+msgid "Set recurrence"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:160
+msgid ""
+"Set condition for recurrences. Must select event start date and event end "
+"date. Otherwise this feature won't work"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:167
+msgid "Virtual Product"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:168
+msgid ""
+"Set if you want to register this event as a Woocommerce Virtual Product. It "
+"will handle all behaviors related to Woocommerce Virtual Product"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:178
+msgid "Tax Status"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:179
+msgid ""
+"Set if you want to enable Woocommerce Tax on this event. First you need to "
+"enable tax calculation from Woocommerce. After that, if you turn on tax "
+"status, then Standard Tax Rates will be applied on this event"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:189
+#: templates/event/purchase-form/recurring-event-ticket.php:39
+msgid "Zoom Event"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:190
+msgid "Enable if this event is a zoom event"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:200
+msgid "Select Meeting"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:201
+msgid "Choose zoom meeting for this event"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:211
+msgid "Limited Tickets"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:212
+msgid "Set if you want to limit available tickets"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:221
+msgid "No. of Tickets"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:225
+msgid "Total no of ticket"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:231
+msgid "Ticket Price"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:235
+msgid "Per ticket price"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:242 core/metaboxs/speaker-meta.php:70
+msgid "Social"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:248 core/metaboxs/speaker-meta.php:76
+msgid "Facebook"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:252 core/metaboxs/speaker-meta.php:80
+msgid "Twitter"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:256
+msgid "Add multiple social icon"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:354
+msgid "invoice no."
+msgstr ""
+
+#: core/metaboxs/event-meta.php:355
+msgid "total qty:"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:356
+msgid "total amount:"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:357
+msgid "email:"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:358
+msgid "status:"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:359
+msgid "payment type:"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:370
+msgid "Total tickets sold:"
+msgstr ""
+
+#: core/metaboxs/event-meta.php:373
+msgid "Total price sold:"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:15
+msgid "Schedule info"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:26
+#: core/settings/views/parts/shortcode-settings-view.php:63
+#: core/settings/views/parts/shortcode-settings-view.php:164
+#: widgets/events-tab/events-tab.php:129 widgets/events/events.php:143
+#: widgets/speakers/speakers.php:124
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:107
+msgid "Title"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:30
+msgid "Place schedule title"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:36
+msgid "Date"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:37
+msgid "Select schedule date"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:46
+msgid "Week Day"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:52
+msgid "Name of the day of week"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:58
+msgid "Sorting order"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:68
+msgid "Schedule List"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:75
+#: core/zoom-meeting/template/shortcode/zoom_meeting.php:32
+#: widgets/zoom/style/zoom-1.php:40
+msgid "Topic"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:79
+msgid "Place schedule topic"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:85 widgets/zoom/style/zoom-1.php:58
+msgid "Start Time"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:89
+msgid "Select start time "
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:95
+msgid "End Time"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:99
+msgid "Select end time "
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:105 core/recurring-event/hooks.php:87
+msgid "Location"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:109
+msgid "Place location here "
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:115 core/speaker/cpt.php:42
+#: core/speaker/cpt.php:44 core/speaker/cpt.php:45 core/speaker/cpt.php:78
+#: core/speaker/cpt.php:121 widgets/speakers/speakers.php:72
+msgid "Speaker"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:122
+msgid "Select speaker "
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:127 core/settings/views/etn-settings.php:71
+msgid "Details"
+msgstr ""
+
+#: core/metaboxs/schedule-meta.php:131
+msgid "Place some details / overview of this slot / schedule."
+msgstr ""
+
+#: core/metaboxs/speaker-meta.php:19
+msgid "Speaker info"
+msgstr ""
+
+#: core/metaboxs/speaker-meta.php:34
+msgid "Name of speaker"
+msgstr ""
+
+#: core/metaboxs/speaker-meta.php:40
+msgid "Designation"
+msgstr ""
+
+#: core/metaboxs/speaker-meta.php:44
+msgid "Speaker designation"
+msgstr ""
+
+#: core/metaboxs/speaker-meta.php:54
+msgid "Email address of speaker"
+msgstr ""
+
+#: core/metaboxs/speaker-meta.php:60
+msgid "Summary"
+msgstr ""
+
+#: core/metaboxs/speaker-meta.php:64
+msgid "Write about speaker"
+msgstr ""
+
+#: core/metaboxs/speaker-meta.php:84
+msgid "Social link of speaker"
+msgstr ""
+
+#: core/metaboxs/speaker-meta.php:90
+msgid "Company logo"
+msgstr ""
+
+#: core/metaboxs/speaker-meta.php:95
+msgid "Company logo will be shown for organizer "
+msgstr ""
+
+#: core/metaboxs/views/fields/event-social-icons.php:19
+#: core/metaboxs/views/fields/icons.php:21
+msgid "search icon"
+msgstr ""
+
+#: core/metaboxs/views/fields/icons.php:35
+msgid "Close"
+msgstr ""
+
+#: core/recurring-event/hooks.php:88 core/schedule/cpt.php:38
+#: core/schedule/cpt.php:39 core/schedule/cpt.php:71 core/schedule/cpt.php:112
+#: widgets/schedule-list/schedule-list.php:73 widgets/schedule/schedule.php:73
+msgid "Schedule"
+msgstr ""
+
+#: core/recurring-event/hooks.php:92
+msgid "Recurrences"
+msgstr ""
+
+#: core/recurring-event/hooks.php:93
+msgid "Recurrence"
+msgstr ""
+
+#: core/recurring-event/hooks.php:100 core/recurring-event/hooks.php:171
+msgid "View all recurrences"
+msgstr ""
+
+#: core/recurring-event/hooks.php:682
+msgid "WARNING: This is a recurring event."
+msgstr ""
+
+#: core/recurring-event/hooks.php:685
+msgid ""
+"Any kind of change / modification to this event will be applied to all "
+"recurrences attached to this event and will overwrite any changes that has "
+"been made to those individual recurrences."
+msgstr ""
+
+#: core/recurring-event/hooks.php:688
+msgid ""
+"Individual recurrences and their purchase data will be preserved if event "
+"start time, event end time or recurrence settings are not changed."
+msgstr ""
+
+#: core/recurring-event/hooks.php:691
+msgid ""
+"You can edit individual recurrences and detach them from this recurring "
+"event. It won't effect any other recurrence"
+msgstr ""
+
+#: core/schedule/cpt.php:36
+msgctxt "Post Type General Name"
+msgid "Schedule"
+msgstr ""
+
+#: core/schedule/cpt.php:40
+msgid "Schedule Attributes"
+msgstr ""
+
+#: core/schedule/cpt.php:43
+msgid "Add New Schedule"
+msgstr ""
+
+#: core/schedule/cpt.php:45
+msgid "New Schedule"
+msgstr ""
+
+#: core/schedule/cpt.php:46
+msgid "Edit Schedule"
+msgstr ""
+
+#: core/schedule/cpt.php:47
+msgid "Update Schedule"
+msgstr ""
+
+#: core/schedule/cpt.php:48
+msgid "View Schedule"
+msgstr ""
+
+#: core/schedule/cpt.php:49
+msgid "View Schedules"
+msgstr ""
+
+#: core/schedule/cpt.php:50
+msgid "Search Schedules"
+msgstr ""
+
+#: core/schedule/cpt.php:57
+msgid "Insert into Schedule"
+msgstr ""
+
+#: core/schedule/cpt.php:58
+msgid "Uploaded to this Schedule"
+msgstr ""
+
+#: core/schedule/cpt.php:59
+msgid "Schedules list"
+msgstr ""
+
+#: core/schedule/cpt.php:60
+msgid "Schedules list navigation"
+msgstr ""
+
+#: core/schedule/cpt.php:70 core/schedule/cpt.php:113
+#: core/settings/views/parts/shortcode-settings-view.php:248
+msgid "Schedules"
+msgstr ""
+
+#: core/schedule/views/parts/schedule.php:31
+msgid "Designation "
+msgstr ""
+
+#: core/schedule/views/parts/schedule.php:33
+msgid "Email "
+msgstr ""
+
+#: core/schedule/views/parts/schedule.php:35
+msgid "website "
+msgstr ""
+
+#: core/settings/views/etn-settings.php:47
+msgid "Template One"
+msgstr ""
+
+#: core/settings/views/etn-settings.php:50
+msgid "Template One Free"
+msgstr ""
+
+#: core/settings/views/etn-settings.php:51
+msgid "Template Two Free "
+msgstr ""
+
+#: core/settings/views/etn-settings.php:55
+msgid "Cart"
+msgstr ""
+
+#: core/settings/views/etn-settings.php:56
+msgid "Checkout"
+msgstr ""
+
+#: core/settings/views/etn-settings.php:64
+msgid "General"
+msgstr ""
+
+#: core/settings/views/etn-settings.php:78
+msgid "Notification"
+msgstr ""
+
+#: core/settings/views/etn-settings.php:92
+#: core/settings/views/parts/zoom-settings-view.php:7
+#: templates/event/purchase-form/recurring-event-ticket.php:38
+msgid "Zoom"
+msgstr ""
+
+#: core/settings/views/etn-settings.php:99
+msgid "Shortcode"
+msgstr ""
+
+#: core/settings/views/etn-settings.php:105
+msgid "Eventin Settings"
+msgstr ""
+
+#: core/settings/views/etn-settings.php:132
+msgid "Save Changes"
+msgstr ""
+
+#: core/settings/views/parts/attendee-settings-view.php:6
+msgid "Enable attendee registration"
+msgstr ""
+
+#: core/settings/views/parts/attendee-settings-view.php:7
+msgid "Enable attendee registration for unique tickets and attendee tracking."
+msgstr ""
+
+#: core/settings/views/parts/attendee-settings-view.php:16
+msgid "Disable ticket email"
+msgstr ""
+
+#: core/settings/views/parts/attendee-settings-view.php:17
+msgid ""
+"Disable sending separate email with unique attendee ticket PDF and attendee "
+"information update option."
+msgstr ""
+
+#: core/settings/views/parts/attendee-settings-view.php:26
+msgid "Require phone for registration"
+msgstr ""
+
+#: core/settings/views/parts/attendee-settings-view.php:27
+msgid "Require attendee phone number for ticket purchase."
+msgstr ""
+
+#: core/settings/views/parts/attendee-settings-view.php:36
+msgid "Require e-mail for registration"
+msgstr ""
+
+#: core/settings/views/parts/attendee-settings-view.php:37
+msgid "Require attendee e-mail number for ticket purchase."
+msgstr ""
+
+#: core/settings/views/parts/attendee-settings-view.php:46
+msgid "Remove attendees after failed payment"
+msgstr ""
+
+#: core/settings/views/parts/attendee-settings-view.php:47
+msgid ""
+"Attendees with failed status will be removed from attendee list. Given "
+"number will be calculated in days."
+msgstr ""
+
+#: core/settings/views/parts/attendee-settings-view.php:51
+msgid "no. of days"
+msgstr ""
+
+#: core/settings/views/parts/details-settings-view.php:11
+msgid "Hide Event Date"
+msgstr ""
+
+#: core/settings/views/parts/details-settings-view.php:13
+msgid "Hide event date from event details."
+msgstr ""
+
+#: core/settings/views/parts/details-settings-view.php:23
+msgid "Hide time"
+msgstr ""
+
+#: core/settings/views/parts/details-settings-view.php:25
+msgid "Hide time from event details."
+msgstr ""
+
+#: core/settings/views/parts/details-settings-view.php:36
+msgid "Hide location"
+msgstr ""
+
+#: core/settings/views/parts/details-settings-view.php:38
+msgid "Hide location from event details."
+msgstr ""
+
+#: core/settings/views/parts/details-settings-view.php:49
+msgid "Hide total seats"
+msgstr ""
+
+#: core/settings/views/parts/details-settings-view.php:51
+msgid "Hide total seats from event details."
+msgstr ""
+
+#: core/settings/views/parts/details-settings-view.php:62
+msgid "Hide attendee count"
+msgstr ""
+
+#: core/settings/views/parts/details-settings-view.php:64
+msgid "Hide total attendee count from event details."
+msgstr ""
+
+#: core/settings/views/parts/details-settings-view.php:76
+msgid "Hide organizers"
+msgstr ""
+
+#: core/settings/views/parts/details-settings-view.php:78
+msgid "Hide organizers from event details."
+msgstr ""
+
+#: core/settings/views/parts/details-settings-view.php:89
+msgid "Hide schedule details"
+msgstr ""
+
+#: core/settings/views/parts/details-settings-view.php:91
+msgid "Hide schedule details from event details."
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:9
+msgid "Events show per page"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:11
+msgid "Number of events to show in Archive page."
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:20
+msgid "Sell on Woocommerce"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:22
+msgid ""
+"Sell event tickets through Woocommerce. This will require Woocommerce plugin."
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:32
+msgid "Redirect after add to cart "
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:34
+msgid "After adding an event to cart, redirect to the following page."
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:53
+msgid "Select Date Format"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:54
+msgid "Select date format to display. For instance 15-01-2020."
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:73
+msgid "Select Time Format:"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:74
+msgid "Select time format. For instance 12h."
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:79
+msgid "24h"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:80
+msgid "12h"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:86
+msgid "Select event expiry point"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:87
+msgid ""
+"Event will be exipred at the selected point.Event filtering in event report "
+"will be applied from selected point."
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:92
+msgid "Starting Date"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:93
+msgid "Ending Date"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:100
+msgid "Disable registration after event is expired"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:102
+msgid "Turn off registration once event is expired"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:111
+msgid "Select event template"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:112
+msgid "Event single page template."
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:129
+msgid "Select speaker template"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:130
+msgid "Speaker single page template."
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:148
+msgid "Include Into Search"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:150
+msgid ""
+"Do you want to include events into search ? This will also enable taxonomy "
+"archive pages"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:163
+msgid "Require login"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:165
+msgid "Require login to purchase event ticket"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:175
+msgid "Price label text"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:176
+msgid "Place price label"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:180
+#: core/settings/views/parts/shortcode-settings-view.php:96
+#: core/settings/views/parts/shortcode-settings-view.php:183
+#: core/settings/views/parts/shortcode-settings-view.php:240
+#: core/settings/views/parts/shortcode-settings-view.php:276
+#: core/settings/views/parts/shortcode-settings-view.php:334
+msgid "Label Text"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:183
+msgid "Slug options"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:186
+msgid "Event slug name"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:187
+msgid "Place event slug here"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:191
+msgid "Event slug"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:196
+msgid "Speaker slug name"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:197
+msgid "Place speaker slug here"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:201
+msgid "Speaker slug"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:205
+msgid "Color options"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:208
+msgid "Primary color"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:209
+msgid "Choose primary color"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:219
+msgid "Secondary color"
+msgstr ""
+
+#: core/settings/views/parts/general-settings-view.php:220
+msgid "Choose secondary color for menu"
+msgstr ""
+
+#: core/settings/views/parts/notification-settings-view.php:9
+#: core/settings/views/parts/notification-settings-view.php:15
+msgid "Admin email address"
+msgstr ""
+
+#: core/settings/views/parts/notification-settings-view.php:10
+msgid "Email will be sent from this mail address"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:15
+msgid "Select event"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:19
+msgid "Event Tab"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:27
+#: core/settings/views/parts/shortcode-settings-view.php:130
+msgid "Select Style"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:35
+#: core/settings/views/parts/shortcode-settings-view.php:138
+msgid "Select Category"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:43
+msgid "Select Tags"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:54
+#: core/settings/views/parts/shortcode-settings-view.php:155
+#: core/settings/views/parts/shortcode-settings-view.php:220
+msgid "Select Order"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:60
+#: core/settings/views/parts/shortcode-settings-view.php:161
+msgid "Select orderby"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:64
+#: core/settings/views/parts/shortcode-settings-view.php:165
+msgid "ID"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:65
+#: core/settings/views/parts/shortcode-settings-view.php:166
+#: widgets/events-tab/events-tab.php:130 widgets/events/events.php:144
+#: widgets/speakers/speakers.php:125
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:108
+msgid "Post Date"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:66
+#: widgets/events-tab/events-tab.php:131 widgets/events/events.php:145
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:109
+msgid "Event Start Date"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:67
+#: widgets/events-tab/events-tab.php:132 widgets/events/events.php:146
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:110
+msgid "Event End Date"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:78
+msgid "Filter by status"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:84
+msgid "Event Column"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:90
+msgid "Event Limit"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:93
+#: core/settings/views/parts/shortcode-settings-view.php:178
+#: core/settings/views/parts/shortcode-settings-view.php:236
+#: core/settings/views/parts/shortcode-settings-view.php:271
+#: core/settings/views/parts/shortcode-settings-view.php:329
+msgid "Generate"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:105
+#: core/settings/views/parts/shortcode-settings-view.php:192
+#: core/settings/views/parts/shortcode-settings-view.php:249
+#: core/settings/views/parts/shortcode-settings-view.php:285
+#: core/settings/views/parts/shortcode-settings-view.php:343
+msgid "You can use generate shortcode"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:108
+#: core/settings/views/parts/shortcode-settings-view.php:195
+#: core/settings/views/parts/shortcode-settings-view.php:252
+#: core/settings/views/parts/shortcode-settings-view.php:288
+#: core/settings/views/parts/shortcode-settings-view.php:346
+msgid "Generate Shortcode"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:122
+msgid "Select speakers"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:124
+#: core/settings/views/parts/shortcode-settings-view.php:191
+#: core/speaker/cpt.php:77 core/speaker/cpt.php:123
+msgid "Speakers"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:175
+msgid "post Limit"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:208
+#: core/settings/views/parts/shortcode-settings-view.php:228
+msgid "Select Schedule"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:211
+msgid "Schedules List"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:265
+#: core/settings/views/parts/shortcode-settings-view.php:305
+msgid "Select Template"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:267
+msgid "Advanced Search"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:284
+msgid "Advanced Search Filter"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:307
+msgid " Zoom meeting"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:313
+msgid "link only?"
+msgstr ""
+
+#: core/settings/views/parts/shortcode-settings-view.php:321
+msgid "Select Zoom"
+msgstr ""
+
+#: core/settings/views/parts/zoom-settings-view.php:9
+msgid "You will get all zoom options and shortcode to show meeting."
+msgstr ""
+
+#: core/settings/views/parts/zoom-settings-view.php:19
+msgid "Api key"
+msgstr ""
+
+#: core/settings/views/parts/zoom-settings-view.php:20
+#: core/settings/views/parts/zoom-settings-view.php:32
+msgid "Place api key here that you get from zoom account"
+msgstr ""
+
+#: core/settings/views/parts/zoom-settings-view.php:31
+msgid "Secret key"
+msgstr ""
+
+#: core/settings/views/parts/zoom-settings-view.php:41
+msgid ""
+"After entering your keys , must save changes first. Then check connection."
+msgstr ""
+
+#: core/settings/views/parts/zoom-settings-view.php:42
+msgid "Check the official documentation from"
+msgstr ""
+
+#: core/settings/views/parts/zoom-settings-view.php:42
+msgid " here"
+msgstr ""
+
+#: core/settings/views/parts/zoom-settings-view.php:43
+msgid "Check connection"
+msgstr ""
+
+#: core/shortcodes/hooks.php:175
+msgid "No style found"
+msgstr ""
+
+#: core/shortcodes/hooks.php:225
+#: widgets/advanced-search/advanced-search.php:426
+msgid "Discover "
+msgstr ""
+
+#: core/shortcodes/hooks.php:241
+msgid "No meeting id found"
+msgstr ""
+
+#: core/speaker/category.php:32 core/speaker/category.php:33
+#: core/speaker/category.php:42 widgets/speakers/speakers.php:82
+msgid "Speaker Category"
+msgstr ""
+
+#: core/speaker/category.php:40
+msgid "Add New Speaker Category"
+msgstr ""
+
+#: core/speaker/category.php:72 core/speaker/category.php:73
+msgid "Speaker categories"
+msgstr ""
+
+#: core/speaker/cpt.php:47
+msgid "Speaker Attributes"
+msgstr ""
+
+#: core/speaker/cpt.php:50
+msgid "Add New Speaker"
+msgstr ""
+
+#: core/speaker/cpt.php:52
+msgid "New Speaker"
+msgstr ""
+
+#: core/speaker/cpt.php:53
+msgid "Edit Speaker"
+msgstr ""
+
+#: core/speaker/cpt.php:54
+msgid "Update Speaker"
+msgstr ""
+
+#: core/speaker/cpt.php:55
+msgid "View Speaker"
+msgstr ""
+
+#: core/speaker/cpt.php:56
+msgid "View Speakera"
+msgstr ""
+
+#: core/speaker/cpt.php:57
+msgid "Search Speakers"
+msgstr ""
+
+#: core/speaker/cpt.php:64
+msgid "Insert into Speaker"
+msgstr ""
+
+#: core/speaker/cpt.php:65
+msgid "Uploaded to this Speaker"
+msgstr ""
+
+#: core/speaker/cpt.php:66
+msgid "Speakers list"
+msgstr ""
+
+#: core/speaker/cpt.php:67
+msgid "Speakers list navigation"
+msgstr ""
+
+#: core/speaker/cpt.php:122
+msgid "Speaker Archive"
+msgstr ""
+
+#: core/woocommerce/etn_woocommerce.php:22
+msgid "Invalid product."
+msgstr ""
+
+#: core/woocommerce/etn_woocommerce.php:272
+msgid "Order ID: "
+msgstr ""
+
+#: core/woocommerce/etn_woocommerce.php:272
+msgid "Order Status: "
+msgstr ""
+
+#: core/woocommerce/etn_woocommerce.php:272
+msgid "Order is Payment Status: "
+msgstr ""
+
+#: core/woocommerce/etn_woocommerce.php:306
+msgid ""
+"NB. This order includes Events which will be hosted on Zoom. After "
+"successful payment, Zoom details will be sent through email"
+msgstr ""
+
+#: core/woocommerce/hooks.php:476
+msgid "You cannot add that amount to the cart — we have "
+msgstr ""
+
+#: core/woocommerce/hooks.php:476
+msgid " in stock and you already have "
+msgstr ""
+
+#: core/woocommerce/hooks.php:476
+msgid " in your cart."
+msgstr ""
+
+#: core/woocommerce/hooks.php:503
+msgid "Sorry, we do not have enough \""
+msgstr ""
+
+#: core/woocommerce/hooks.php:503
+msgid "\" in stock to fulfill your order ("
+msgstr ""
+
+#: core/woocommerce/hooks.php:503
+msgid " available). We apologise for any inconvenience caused."
+msgstr ""
+
+#: core/woocommerce/hooks.php:520 core/woocommerce/hooks.php:545
+msgid ""
+"There are some issues with the items in your cart. Please go back to the "
+"cart page and resolve these issues before checking out."
+msgstr ""
+
+#: core/woocommerce/hooks.php:525
+msgid "Return to cart"
+msgstr ""
+
+#: core/zoom-meeting/ajax-action.php:50
+msgid "Please check your api connection."
+msgstr ""
+
+#: core/zoom-meeting/ajax-action.php:66
+msgid "Api connection is successfull."
+msgstr ""
+
+#: core/zoom-meeting/ajax-action.php:84
+msgid "somthing is wrong"
+msgstr ""
+
+#: core/zoom-meeting/cpt.php:38
+msgctxt "Post Type General Name"
+msgid "Zoom meeting"
+msgstr ""
+
+#: core/zoom-meeting/cpt.php:40
+msgid "Add new meeting"
+msgstr ""
+
+#: core/zoom-meeting/cpt.php:41 core/zoom-meeting/cpt.php:72
+#: core/zoom-meeting/cpt.php:73
+msgid "Zoom meeting"
+msgstr ""
+
+#: core/zoom-meeting/cpt.php:42
+msgid "Zoom meeting Attributes"
+msgstr ""
+
+#: core/zoom-meeting/cpt.php:45
+msgid "Add new zoom meeting"
+msgstr ""
+
+#: core/zoom-meeting/cpt.php:47
+msgid "New zoom meeting"
+msgstr ""
+
+#: core/zoom-meeting/cpt.php:48
+msgid "Edit zoom meeting"
+msgstr ""
+
+#: core/zoom-meeting/cpt.php:49
+msgid "Update zoom meeting"
+msgstr ""
+
+#: core/zoom-meeting/cpt.php:50 core/zoom-meeting/cpt.php:51
+msgid "View zoom meeting"
+msgstr ""
+
+#: core/zoom-meeting/cpt.php:52
+msgid "Search zoom meeting"
+msgstr ""
+
+#: core/zoom-meeting/cpt.php:59
+msgid "Insert into Zoom meeting"
+msgstr ""
+
+#: core/zoom-meeting/cpt.php:60
+msgid "Uploaded to this Zoom meeting"
+msgstr ""
+
+#: core/zoom-meeting/cpt.php:61
+msgid "Zoom meeting list"
+msgstr ""
+
+#: core/zoom-meeting/cpt.php:62
+msgid "Zoom meeting list navigation"
+msgstr ""
+
+#: core/zoom-meeting/template/shortcode/zoom_meeting.php:17
+#: widgets/zoom/style/zoom-1.php:16
+msgid "Meeting info"
+msgstr ""
+
+#: core/zoom-meeting/template/shortcode/zoom_meeting.php:23
+msgid "Meeting id"
+msgstr ""
+
+#: core/zoom-meeting/template/shortcode/zoom_meeting.php:41
+msgid "Start time"
+msgstr ""
+
+#: core/zoom-meeting/template/shortcode/zoom_meeting.php:50
+#: widgets/zoom/style/zoom-1.php:22
+msgid "Type"
+msgstr ""
+
+#: core/zoom-meeting/template/shortcode/zoom_meeting.php:59
+msgid "Status"
+msgstr ""
+
+#: core/zoom-meeting/template/shortcode/zoom_meeting.php:68
+#: core/zoom-meeting/zoom-meeting-meta.php:69 widgets/zoom/style/zoom-1.php:67
+#: widgets/zoom/zoom.php:130
+msgid "Duration"
+msgstr ""
+
+#: core/zoom-meeting/template/shortcode/zoom_meeting.php:71
+#: widgets/zoom/style/zoom-1.php:70
+msgid " minutes"
+msgstr ""
+
+#: core/zoom-meeting/template/shortcode/zoom_meeting.php:77
+#: core/zoom-meeting/zoom-meeting-meta.php:60 widgets/zoom/zoom.php:118
+msgid "Time zone"
+msgstr ""
+
+#: core/zoom-meeting/template/shortcode/zoom_meeting.php:86
+#: core/zoom-meeting/template/shortcode/zoom_meeting.php:89
+msgid "Start url"
+msgstr ""
+
+#: core/zoom-meeting/template/shortcode/zoom_meeting.php:95
+#: core/zoom-meeting/template/shortcode/zoom_meeting.php:98
+#: core/zoom-meeting/template/shortcode/zoom_meeting.php:112
+msgid "Join url"
+msgstr ""
+
+#: core/zoom-meeting/template/shortcode/zoom_meeting.php:126
+msgid "No data found."
+msgstr ""
+
+#: core/zoom-meeting/zoom-meeting-meta.php:15
+msgid "Create a new meeting"
+msgstr ""
+
+#: core/zoom-meeting/zoom-meeting-meta.php:31 widgets/zoom/style/zoom-1.php:31
+msgid "Meeting ID"
+msgstr ""
+
+#: core/zoom-meeting/zoom-meeting-meta.php:32
+msgid ""
+"Meeting ID will be generated automatically after creating a meeting "
+"successfully"
+msgstr ""
+
+#: core/zoom-meeting/zoom-meeting-meta.php:41
+msgid "Meeting host"
+msgstr ""
+
+#: core/zoom-meeting/zoom-meeting-meta.php:42
+msgid "Select a host of meeting.(Required)"
+msgstr ""
+
+#: core/zoom-meeting/zoom-meeting-meta.php:50
+msgid "Start date/time"
+msgstr ""
+
+#: core/zoom-meeting/zoom-meeting-meta.php:51 widgets/zoom/zoom.php:111
+msgid "Select start date and time.(Required)"
+msgstr ""
+
+#: core/zoom-meeting/zoom-meeting-meta.php:61 widgets/zoom/zoom.php:123
+msgid "Select timezone for meeting .(Optional)"
+msgstr ""
+
+#: core/zoom-meeting/zoom-meeting-meta.php:70 widgets/zoom/zoom.php:133
+msgid "Meeting duration (minutes).(Optional)"
+msgstr ""
+
+#: core/zoom-meeting/zoom-meeting-meta.php:79 widgets/zoom/zoom.php:140
+msgid "Password"
+msgstr ""
+
+#: core/zoom-meeting/zoom-meeting-meta.php:80 widgets/zoom/zoom.php:142
+msgid ""
+"Password to join the meeting. Password may only contain the following "
+"characters: [a-z A-Z 0-9]. Max of 10 characters.( Leave blank for auto "
+"generate )"
+msgstr ""
+
+#: templates/archive-event.php:19
+msgid "Nothing found!"
+msgstr ""
+
+#: templates/archive-event.php:20
+msgid "It looks like nothing was found here. Maybe try a search?"
+msgstr ""
+
+#: templates/event/archive/pagination-content.php:10
+msgid "Previous"
+msgstr ""
+
+#: templates/event/archive/pagination-content.php:11
+msgid "Next"
+msgstr ""
+
+#: templates/event/attendee-list-button.php:8
+msgid "ATTENDEE LIST"
+msgstr ""
+
+#: templates/event/event-organizers-free.php:44
+msgid "Email :"
+msgstr ""
+
+#: templates/event/event-organizers-free.php:50
+msgid "Social :"
+msgstr ""
+
+#: templates/event/event-sidebar-meta-free.php:18
+msgid "Date : "
+msgstr ""
+
+#: templates/event/event-sidebar-meta-free.php:30
+msgid "Time : "
+msgstr ""
+
+#: templates/event/event-sidebar-meta-free.php:49
+msgid "Reg. Deadline : "
+msgstr ""
+
+#: templates/event/event-sidebar-meta-free.php:61
+msgid "Venue : "
+msgstr ""
+
+#: templates/event/purchase-form/event-ticket.php:20
+msgid "Registration Form"
+msgstr ""
+
+#: templates/event/purchase-form/event-ticket.php:44
+#: templates/event/purchase-form/recurring-event-ticket.php:195
+msgid "No Tickets Available!!"
+msgstr ""
+
+#: templates/event/purchase-form/event-ticket.php:52
+msgid ""
+"[Note: This event will be held on zoom. Attendee will get zoom meeting URL "
+"through email]"
+msgstr ""
+
+#: templates/event/purchase-form/recurring-event-ticket.php:111
+#: templates/event/purchase-form/template/form-template.php:52
+msgid "Price"
+msgstr ""
+
+#: templates/event/purchase-form/recurring-event-ticket.php:117
+#: templates/event/purchase-form/template/form-template.php:46
+msgid "Quantity"
+msgstr ""
+
+#: templates/event/purchase-form/recurring-event-ticket.php:120
+#: templates/event/purchase-form/template/form-template.php:48
+msgid "Invalid Qty"
+msgstr ""
+
+#: templates/event/purchase-form/recurring-event-ticket.php:126
+#: templates/event/purchase-form/template/form-template.php:59
+msgid "Total price"
+msgstr ""
+
+#: templates/event/purchase-form/recurring-event-ticket.php:147
+#: templates/event/purchase-form/template/form-template.php:78
+msgid "Event already expired!"
+msgstr ""
+
+#: templates/event/purchase-form/recurring-event-ticket.php:152
+#: templates/event/purchase-form/template/form-template.php:83
+msgid "Add to cart"
+msgstr ""
+
+#: templates/event/purchase-form/recurring-event-ticket.php:157
+#: templates/event/purchase-form/template/form-template.php:88
+msgid "Please"
+msgstr ""
+
+#: templates/event/purchase-form/recurring-event-ticket.php:157
+#: templates/event/purchase-form/template/form-template.php:88
+msgid "Login"
+msgstr ""
+
+#: templates/event/purchase-form/recurring-event-ticket.php:157
+#: templates/event/purchase-form/template/form-template.php:88
+msgid " to buy ticket!"
+msgstr ""
+
+#: templates/event/purchase-form/recurring-event-ticket.php:175
+#: templates/event/purchase-form/template/form-template.php:8
+msgid "This event offers unlimited tickets"
+msgstr ""
+
+#: templates/event/purchase-form/recurring-event-ticket.php:177
+#: templates/event/purchase-form/template/form-template.php:10
+msgid " seats remaining"
+msgstr ""
+
+#: templates/event/purchase-form/recurring-event-ticket.php:186
+#: templates/event/purchase-form/template/form-template.php:19
+msgid " attendees so far."
+msgstr ""
+
+#: templates/event/related-events-free.php:68
+msgid "attend"
+msgstr ""
+
+#: templates/speaker/schedule-header.php:6
+msgid "All Sessions by"
+msgstr ""
+
+#: utils/helper.php:709
+msgid "select organizer"
+msgstr ""
+
+#: utils/helper.php:739
+msgid "facebook"
+msgstr ""
+
+#: utils/helper.php:740
+msgid "facebook-f"
+msgstr ""
+
+#: utils/helper.php:741
+msgid "facebook-messenger"
+msgstr ""
+
+#: utils/helper.php:742
+msgid "facebook-square"
+msgstr ""
+
+#: utils/helper.php:743 utils/helper.php:752
+msgid "linkedin"
+msgstr ""
+
+#: utils/helper.php:744 utils/helper.php:753
+msgid "linkedin-in"
+msgstr ""
+
+#: utils/helper.php:745
+msgid "twitter"
+msgstr ""
+
+#: utils/helper.php:746
+msgid "twitter-square"
+msgstr ""
+
+#: utils/helper.php:747
+msgid "uber"
+msgstr ""
+
+#: utils/helper.php:748
+msgid "google"
+msgstr ""
+
+#: utils/helper.php:749
+msgid "google-drive"
+msgstr ""
+
+#: utils/helper.php:750
+msgid "google-play"
+msgstr ""
+
+#: utils/helper.php:751
+msgid "google-wallet"
+msgstr ""
+
+#: utils/helper.php:754
+msgid "whatsapp"
+msgstr ""
+
+#: utils/helper.php:755
+msgid "whatsapp-square"
+msgstr ""
+
+#: utils/helper.php:756
+msgid "wordpress"
+msgstr ""
+
+#: utils/helper.php:757
+msgid "wordpress-simple"
+msgstr ""
+
+#: utils/helper.php:758
+msgid "youtube"
+msgstr ""
+
+#: utils/helper.php:759
+msgid "youtube-square"
+msgstr ""
+
+#: utils/helper.php:760
+msgid "xbox"
+msgstr ""
+
+#: utils/helper.php:761
+msgid "vk"
+msgstr ""
+
+#: utils/helper.php:762
+msgid "vnv"
+msgstr ""
+
+#: utils/helper.php:763
+msgid "instagram"
+msgstr ""
+
+#: utils/helper.php:764
+msgid "reddit"
+msgstr ""
+
+#: utils/helper.php:765
+msgid "reddit-alien"
+msgstr ""
+
+#: utils/helper.php:766
+msgid "reddit-square"
+msgstr ""
+
+#: utils/helper.php:767
+msgid "pinterest"
+msgstr ""
+
+#: utils/helper.php:768
+msgid "pinterest-p"
+msgstr ""
+
+#: utils/helper.php:769
+msgid "pinterest-square"
+msgstr ""
+
+#: utils/helper.php:770
+msgid "tumblr"
+msgstr ""
+
+#: utils/helper.php:771
+msgid "tumblr-square"
+msgstr ""
+
+#: utils/helper.php:772
+msgid "flickr"
+msgstr ""
+
+#: utils/helper.php:773
+msgid "meetup"
+msgstr ""
+
+#: utils/helper.php:774
+msgid "share"
+msgstr ""
+
+#: utils/helper.php:775
+msgid "vimeo"
+msgstr ""
+
+#: utils/helper.php:776
+msgid "Wechat"
+msgstr ""
+
+#: utils/helper.php:1089
+msgid "Related Events"
+msgstr ""
+
+#: utils/helper.php:1254
+msgid "Invalid data. "
+msgstr ""
+
+#: utils/helper.php:1333
+msgid "Select Location"
+msgstr ""
+
+#: utils/helper.php:1978
+msgid " zoom meeting details : "
+msgstr ""
+
+#: utils/helper.php:1986
+msgid "Event Page: "
+msgstr ""
+
+#: utils/helper.php:1987
+msgid "Click here. "
+msgstr ""
+
+#: utils/helper.php:1989
+msgid "Start: "
+msgstr ""
+
+#: utils/helper.php:1990
+msgid "End: "
+msgstr ""
+
+#: utils/helper.php:1996
+msgid "Meeting URL: "
+msgstr ""
+
+#: utils/helper.php:1998
+msgid "Click to join Zoom meeting"
+msgstr ""
+
+#: utils/helper.php:2006
+msgid "Meeting Password: "
+msgstr ""
+
+#: utils/helper.php:2033
+msgid "Event zoom meeting details"
+msgstr ""
+
+#: utils/helper.php:2291
+msgid "Attendee: "
+msgstr ""
+
+#: utils/helper.php:2293
+msgid "Download Ticket"
+msgstr ""
+
+#: utils/helper.php:2295
+msgid "Edit Information"
+msgstr ""
+
+#: utils/helper.php:2348
+msgid "Event Ticket"
+msgstr ""
+
+#: utils/helper.php:2484
+msgid "Date: "
+msgstr ""
+
+#: utils/helper.php:2484
+msgid " to "
+msgstr ""
+
+#: utils/helper.php:2485
+msgid " Time: "
+msgstr ""
+
+#: utils/helper.php:2485
+msgid " - "
+msgstr ""
+
+#: utils/pro-awareness/pro-awareness.php:156
+msgid "Default Title"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:28
+msgid "Eventin advanced Search"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:68
+msgid "Input placeholder Text"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:70
+msgid "Find your next event"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:71
+#: widgets/advanced-search/advanced-search.php:82
+#: widgets/advanced-search/advanced-search.php:93
+#: widgets/advanced-search/advanced-search.php:104
+msgid "Type your title here"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:79
+msgid "Category Text"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:81
+#: widgets/events-tab/events-tab.php:74 widgets/events/events.php:74
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:82
+msgid "Event Category"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:90
+msgid "Location Text"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:92
+msgid "Event Location"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:101
+msgid "Button Text"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:103
+msgid "Search Now"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:117
+msgid "Search Box"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:125
+#: widgets/advanced-search/advanced-search.php:343
+#: widgets/events-tab/events-tab.php:245
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:274
+msgid "Background"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:133
+#: widgets/advanced-search/advanced-search.php:234
+#: widgets/advanced-search/advanced-search.php:352
+msgctxt "Border Control"
+msgid "Border Type"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:136
+#: widgets/advanced-search/advanced-search.php:237
+#: widgets/advanced-search/advanced-search.php:355
+msgid "None"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:137
+#: widgets/advanced-search/advanced-search.php:238
+#: widgets/advanced-search/advanced-search.php:356
+msgctxt "Border Control"
+msgid "Solid"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:138
+#: widgets/advanced-search/advanced-search.php:239
+#: widgets/advanced-search/advanced-search.php:357
+msgctxt "Border Control"
+msgid "Double"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:139
+#: widgets/advanced-search/advanced-search.php:240
+#: widgets/advanced-search/advanced-search.php:358
+msgctxt "Border Control"
+msgid "Dotted"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:140
+#: widgets/advanced-search/advanced-search.php:241
+#: widgets/advanced-search/advanced-search.php:359
+msgctxt "Border Control"
+msgid "Dashed"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:141
+#: widgets/advanced-search/advanced-search.php:242
+#: widgets/advanced-search/advanced-search.php:360
+msgctxt "Border Control"
+msgid "Groove"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:151
+#: widgets/advanced-search/advanced-search.php:252
+#: widgets/advanced-search/advanced-search.php:370
+msgctxt "Border Control"
+msgid "Border Width"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:165
+#: widgets/advanced-search/advanced-search.php:266
+#: widgets/advanced-search/advanced-search.php:384
+msgctxt "Border Control"
+msgid "Border Color"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:178
+#: widgets/advanced-search/advanced-search.php:279
+#: widgets/advanced-search/advanced-search.php:397
+#: widgets/events-tab/events-tab.php:341
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:370
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:193
+#: widgets/advanced-search/advanced-search.php:412
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:204
+msgid "Input Group"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:211
+#: widgets/events-tab/events-tab.php:262 widgets/events-tab/events-tab.php:313
+#: widgets/schedule-list/schedule-list.php:220
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:291
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:342
+msgid "Padding"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:222
+#: widgets/events-tab/events-tab.php:330
+#: widgets/schedule-list/schedule-list.php:115
+#: widgets/schedule-list/schedule-list.php:162
+#: widgets/schedule-list/schedule-list.php:247
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:359
+msgid "Margin"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:297
+msgid "Input Icon"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:305
+#: widgets/advanced-search/advanced-search.php:335
+#: widgets/events-tab/events-tab.php:520 widgets/events/events.php:334
+#: widgets/schedule-list/schedule-list.php:96
+#: widgets/schedule-list/schedule-list.php:143
+#: widgets/schedule-list/schedule-list.php:190
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:549
+msgid "Typography"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:312
+#: widgets/schedule-list/schedule-list.php:104
+#: widgets/schedule-list/schedule-list.php:151
+#: widgets/schedule-list/schedule-list.php:198
+msgid "Color"
+msgstr ""
+
+#: widgets/advanced-search/advanced-search.php:326
+msgid "Search Button"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:26 widgets/events-tab/events-tab.php:56
+msgid "Eventin Events Tab"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:66 widgets/events/events.php:66
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:66
+msgid "Event 1"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:67 widgets/events/events.php:67
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:67
+msgid "Event 2"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:83 widgets/events/events.php:83
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:91
+msgid "Event Tag"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:92 widgets/events/events.php:92
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:162
+msgid "Event count"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:109 widgets/events/events.php:109
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:179
+msgid "Event column"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:113 widgets/events/events.php:113
+#: widgets/speakers/speakers.php:107
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:183
+msgid "4 Column "
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:114 widgets/events/events.php:114
+#: widgets/speakers/speakers.php:108
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:184
+msgid "3 Column"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:115 widgets/events/events.php:115
+#: widgets/speakers/speakers.php:109
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:185
+msgid "2 Column"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:124 widgets/events/events.php:138
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:102
+msgid "Order Event By"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:140 widgets/events/events.php:124
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:118
+msgid "Event status filter By"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:145 widgets/events/events.php:129
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:123
+msgid "upcoming Event"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:146 widgets/events/events.php:130
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:124
+msgid "Expire Event"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:154 widgets/events/events.php:155
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:132
+msgid "Event Order"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:158 widgets/events/events.php:159
+#: widgets/schedule/schedule.php:87 widgets/speakers/speakers.php:139
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:136
+msgid "Ascending"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:159 widgets/events/events.php:160
+#: widgets/schedule/schedule.php:86 widgets/speakers/speakers.php:138
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:137
+msgid "Descending"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:170 widgets/schedule/schedule.php:98
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:199
+msgid "Nav style"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:177 widgets/schedule/schedule.php:104
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:206
+msgid "Alignment"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:182
+#: widgets/schedule-list/schedule-list.php:264
+#: widgets/schedule/schedule.php:109
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:211
+msgid "Left"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:186
+#: widgets/schedule-list/schedule-list.php:268
+#: widgets/schedule/schedule.php:113
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:215
+msgid "Center"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:190
+#: widgets/schedule-list/schedule-list.php:272
+#: widgets/schedule/schedule.php:117
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:219
+msgid "Right"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:194 widgets/schedule/schedule.php:121
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:223
+msgid "Justified"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:211 widgets/schedule/schedule.php:138
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:240
+msgid "Nav Title Typography"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:227 widgets/events-tab/events-tab.php:379
+#: widgets/events-tab/events-tab.php:626 widgets/events-tab/events-tab.php:732
+#: widgets/events/events.php:193 widgets/events/events.php:440
+#: widgets/events/events.php:546 widgets/schedule/schedule.php:162
+#: widgets/speakers/speakers.php:177 widgets/speakers/speakers.php:265
+#: widgets/speakers/speakers.php:341 widgets/speakers/speakers.php:403
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:256
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:408
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:655
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:761
+#: widgets/zoom/zoom.php:199 widgets/zoom/zoom.php:292
+msgid "Normal"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:234 widgets/schedule/schedule.php:169
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:263
+msgid "Nav Title Color"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:255 widgets/events-tab/events-tab.php:654
+#: widgets/events/events.php:468 widgets/schedule/schedule.php:190
+#: widgets/speakers/speakers.php:420
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:284
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:683
+msgid "Border"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:278 widgets/schedule/schedule.php:202
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:307
+msgid "Active"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:284 widgets/schedule/schedule.php:208
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:313
+msgid "Nav active color"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:297
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:326
+msgid "Active Background"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:306 widgets/schedule/schedule.php:240
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:335
+msgid "Border active"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:357 widgets/events/events.php:171
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:386
+msgid "Title Style"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:366 widgets/events/events.php:180
+#: widgets/schedule/schedule.php:266 widgets/speakers/speakers.php:163
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:395
+#: widgets/zoom/zoom.php:185
+msgid "Title Typography"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:385 widgets/events/events.php:199
+#: widgets/schedule/schedule.php:274 widgets/speakers/speakers.php:183
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:414
+#: widgets/zoom/zoom.php:206
+msgid "Title color"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:399 widgets/events-tab/events-tab.php:664
+#: widgets/events-tab/events-tab.php:768 widgets/events/events.php:213
+#: widgets/events/events.php:478 widgets/events/events.php:582
+#: widgets/speakers/speakers.php:199 widgets/speakers/speakers.php:286
+#: widgets/speakers/speakers.php:363 widgets/speakers/speakers.php:429
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:428
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:693
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:797
+#: widgets/zoom/zoom.php:223 widgets/zoom/zoom.php:316
+msgid "Hover"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:405 widgets/events/events.php:219
+#: widgets/speakers/speakers.php:205
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:434
+#: widgets/zoom/zoom.php:230
+msgid "Title Hover color"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:422 widgets/events/events.php:236
+#: widgets/speakers/speakers.php:224
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:451
+#: widgets/zoom/zoom.php:250
+msgid "Title margin"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:437 widgets/events/events.php:251
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:466
+msgid "Designation Style"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:446 widgets/events/events.php:260
+#: widgets/speakers/speakers.php:251
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:475
+msgid "Designation Typography"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:454 widgets/events/events.php:268
+#: widgets/speakers/speakers.php:271
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:483
+msgid "Designation color"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:465 widgets/events/events.php:279
+#: widgets/speakers/speakers.php:310
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:494
+msgid "Description margin"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:480 widgets/events/events.php:294
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:509
+msgid "Location Style"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:489 widgets/events/events.php:303
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:518
+msgid "Location Typography"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:497 widgets/events/events.php:311
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:526
+msgid "Location color"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:511 widgets/events/events.php:325
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:540
+msgid "Category Style"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:528 widgets/events/events.php:342
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:557
+msgid "color"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:538 widgets/events/events.php:352
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:567
+msgid "background color"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:552 widgets/events/events.php:366
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:581
+msgid "Thumb Style"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:559 widgets/events/events.php:373
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:588
+msgid "border radius"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:575 widgets/events/events.php:389
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:604
+msgid "Date Style"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:584 widgets/events/events.php:398
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:613
+msgid "Date Typography"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:592 widgets/events/events.php:406
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:621
+msgid "Date color"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:606 widgets/events/events.php:420
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:635
+msgid "Button Style"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:614 widgets/events/events.php:428
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:643
+msgid "Button Typography"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:632 widgets/events/events.php:446
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:661
+msgid "Button color"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:644 widgets/events/events.php:458
+#: widgets/schedule-list/schedule-list.php:209
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:673
+msgid "Background Color"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:670 widgets/events/events.php:484
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:699
+msgid "Button Hover color"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:682 widgets/events/events.php:496
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:711
+msgid "Background Hover Color"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:692 widgets/events/events.php:506
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:721
+msgid "Border Hover"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:705 widgets/events/events.php:519
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:734
+msgid "Button Padding"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:720 widgets/events/events.php:534
+#: widgets/schedule-list/schedule-list.php:239
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:749
+msgid "Advance Style"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:738 widgets/events/events.php:552
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:767
+msgid "Wrapper box BG color"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:750 widgets/events/events.php:564
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:779
+msgid "Wrapper Border"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:758 widgets/events/events.php:572
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:787
+msgid "Wrapper Box Shadow"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:774 widgets/events/events.php:588
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:803
+msgid "Wrapper Box Hover BG color"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:786 widgets/events/events.php:600
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:815
+msgid "Wrapper Border Hover"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:794 widgets/events/events.php:608
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:823
+msgid "Wrapper Box Hover Shadow"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:807 widgets/events/events.php:621
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:836
+msgid "Content Padding"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:820 widgets/events/events.php:634
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:849
+msgid "Content Box Border"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:828 widgets/events/events.php:642
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:857
+msgid "Wrapper Box Padding"
+msgstr ""
+
+#: widgets/events-tab/events-tab.php:840 widgets/events/events.php:654
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:869
+msgid "Wrapper Box Margin"
+msgstr ""
+
+#: widgets/events/events.php:56
+msgid "Eventin event Event"
+msgstr ""
+
+#: widgets/events/style/event-1.php:54 widgets/events/style/event-2.php:67
+msgid "Expired!"
+msgstr ""
+
+#: widgets/events/style/event-1.php:58 widgets/events/style/event-2.php:71
+msgid "Attend"
+msgstr ""
+
+#: widgets/events/style/event-1.php:73 widgets/events/style/event-2.php:86
+#: widgets/schedule/style/schedule-1.php:124
+#: widgets/speakers/style/speaker-2.php:56
+#: widgets/speakers/style/speaker-3.php:56
+msgid "No Post Found"
+msgstr ""
+
+#: widgets/schedule-list/schedule-list.php:31
+msgid "Eventin Schedule List"
+msgstr ""
+
+#: widgets/schedule-list/schedule-list.php:56
+msgid "Schedule Settings"
+msgstr ""
+
+#: widgets/schedule-list/schedule-list.php:87
+msgid "Topics Title Style"
+msgstr ""
+
+#: widgets/schedule-list/schedule-list.php:134
+msgid "Topics Details Style"
+msgstr ""
+
+#: widgets/schedule-list/schedule-list.php:181
+msgid "Schedule Time Style"
+msgstr ""
+
+#: widgets/schedule-list/schedule-list.php:260
+msgid "Align"
+msgstr ""
+
+#: widgets/schedule-list/style/schedule-list-1.php:98
+msgid "No Schedule Found"
+msgstr ""
+
+#: widgets/schedule/schedule.php:31
+msgid "Eventin schedule Tab"
+msgstr ""
+
+#: widgets/schedule/schedule.php:56
+msgid "Schedule settings"
+msgstr ""
+
+#: widgets/schedule/schedule.php:66
+msgid "Schedule 1"
+msgstr ""
+
+#: widgets/schedule/schedule.php:82
+msgid "Schedule order"
+msgstr ""
+
+#: widgets/schedule/schedule.php:148
+msgid "Nav Sub Title Typography"
+msgstr ""
+
+#: widgets/schedule/schedule.php:179
+msgid "Nav Subtitle color"
+msgstr ""
+
+#: widgets/schedule/schedule.php:219
+msgid "Nav Subtitle Active color"
+msgstr ""
+
+#: widgets/schedule/schedule.php:229
+msgid "Nav Angle Active color"
+msgstr ""
+
+#: widgets/schedule/schedule.php:257
+msgid "Title style"
+msgstr ""
+
+#: widgets/schedule/schedule.php:289
+msgid "Description style"
+msgstr ""
+
+#: widgets/schedule/schedule.php:298
+msgid "Desc Typography"
+msgstr ""
+
+#: widgets/schedule/schedule.php:306
+msgid "Desc color"
+msgstr ""
+
+#: widgets/schedule/schedule.php:321
+msgid "Schedule time style"
+msgstr ""
+
+#: widgets/schedule/schedule.php:330
+msgid "Schedule Time Typography"
+msgstr ""
+
+#: widgets/schedule/schedule.php:338
+msgid "Schedule Time Color"
+msgstr ""
+
+#: widgets/schedule/schedule.php:348
+msgid "Schedule Time BG Color"
+msgstr ""
+
+#: widgets/speakers/speakers.php:26
+msgid "Eventin speaker"
+msgstr ""
+
+#: widgets/speakers/speakers.php:50
+msgid "Eventin Speakers"
+msgstr ""
+
+#: widgets/speakers/speakers.php:57
+msgid "Speaker Style"
+msgstr ""
+
+#: widgets/speakers/speakers.php:61
+msgid "Speaker 1"
+msgstr ""
+
+#: widgets/speakers/speakers.php:62
+msgid "Speaker 2"
+msgstr ""
+
+#: widgets/speakers/speakers.php:63
+msgid "Speaker 3"
+msgstr ""
+
+#: widgets/speakers/speakers.php:93
+msgid "Speaker Count"
+msgstr ""
+
+#: widgets/speakers/speakers.php:103
+msgid "Speaker Column"
+msgstr ""
+
+#: widgets/speakers/speakers.php:119
+msgid "Order Speaker By"
+msgstr ""
+
+#: widgets/speakers/speakers.php:134
+msgid "Speaker Order"
+msgstr ""
+
+#: widgets/speakers/speakers.php:153 widgets/zoom/zoom.php:175
+msgid "Title Section"
+msgstr ""
+
+#: widgets/speakers/speakers.php:242
+msgid "Designation Section"
+msgstr ""
+
+#: widgets/speakers/speakers.php:292
+msgid "Designation Hover color"
+msgstr ""
+
+#: widgets/speakers/speakers.php:327
+msgid "Social Section"
+msgstr ""
+
+#: widgets/speakers/speakers.php:347
+msgid "Social BG color"
+msgstr ""
+
+#: widgets/speakers/speakers.php:369
+msgid "Social Hover BG color"
+msgstr ""
+
+#: widgets/speakers/speakers.php:391
+msgid "Advance Section"
+msgstr ""
+
+#: widgets/speakers/speakers.php:409
+msgid "Content box BG color"
+msgstr ""
+
+#: widgets/speakers/speakers.php:435
+msgid "Box Hover BG color"
+msgstr ""
+
+#: widgets/speakers/speakers.php:446
+msgid "BorderHover"
+msgstr ""
+
+#: widgets/speakers/speakers.php:458
+msgid "Content Box Padding"
+msgstr ""
+
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:26
+msgid "Upcoming/expire event Tab"
+msgstr ""
+
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:56
+msgid "Upcoming Events Tab"
+msgstr ""
+
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:75
+msgid "Tab Title"
+msgstr ""
+
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:145
+msgid "Repeater List"
+msgstr ""
+
+#: widgets/upcoming-event-tab/upcoming-event-tab.php:150
+msgid "Title #1"
+msgstr ""
+
+#: widgets/zoom/style/zoom-1.php:49
+msgid "Meeting Status"
+msgstr ""
+
+#: widgets/zoom/style/zoom-1.php:76
+msgid "Time Zone"
+msgstr ""
+
+#: widgets/zoom/style/zoom-1.php:85
+msgid "Start URL ( Host can start meeting using this url )"
+msgstr ""
+
+#: widgets/zoom/style/zoom-1.php:88
+msgid "Start Url"
+msgstr ""
+
+#: widgets/zoom/style/zoom-1.php:94
+msgid "Join URL ( Users can join meeting using this url )"
+msgstr ""
+
+#: widgets/zoom/style/zoom-1.php:97
+msgid "Join Url"
+msgstr ""
+
+#: widgets/zoom/style/zoom-1.php:105
+msgid "Some thing is wrong."
+msgstr ""
+
+#: widgets/zoom/zoom.php:34
+msgid "Eventin zoom"
+msgstr ""
+
+#: widgets/zoom/zoom.php:56
+msgid "Content"
+msgstr ""
+
+#: widgets/zoom/zoom.php:63
+msgid "Zoom Style"
+msgstr ""
+
+#: widgets/zoom/zoom.php:69
+msgid "Style 3"
+msgstr ""
+
+#: widgets/zoom/zoom.php:70
+msgid "Style 4"
+msgstr ""
+
+#: widgets/zoom/zoom.php:79
+msgid "Meeting Topic"
+msgstr ""
+
+#: widgets/zoom/zoom.php:81
+msgid "Write meeting topic a host of the meeting.(Optional)"
+msgstr ""
+
+#: widgets/zoom/zoom.php:88
+msgid "Meeting Data"
+msgstr ""
+
+#: widgets/zoom/zoom.php:96
+msgid "Meeting Hosts*"
+msgstr ""
+
+#: widgets/zoom/zoom.php:101
+msgid "Select a host of the meeting.(Required)"
+msgstr ""
+
+#: widgets/zoom/zoom.php:108
+msgid "Start date/time*"
+msgstr ""
+
+#: widgets/zoom/zoom.php:150
+msgid ""
+"You can update meeting information from zoom report ( Eventin => Zoom "
+"meetings )"
+msgstr ""
+
+#: widgets/zoom/zoom.php:161
+msgid "Create Meeting "
+msgstr ""
+
+#: widgets/zoom/zoom.php:268
+msgid "Meeting Section"
+msgstr ""
+
+#: widgets/zoom/zoom.php:278
+msgid "Meeting block typography"
+msgstr ""
+
+#: widgets/zoom/zoom.php:299
+msgid "Meeting block color"
+msgstr ""
+
+#: widgets/zoom/zoom.php:323
+msgid "Meeting block hover color"
+msgstr ""
+
+#: widgets/zoom/zoom.php:343
+msgid "Meeting block margin"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://themewinter.com/eventin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Simple and Easy to use Event Management Solution"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themewinter"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themewinter.com/"
+msgstr ""
